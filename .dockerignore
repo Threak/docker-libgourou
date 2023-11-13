@@ -5,3 +5,5 @@
 !scripts
 !LICENSE
 !README.md
+!server/go.mod
+!server/main.go

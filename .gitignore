@@ -10,3 +10,6 @@ Adobe-Digital-Editions/
 *.pdf
 *.epub
 *.drm
+
+# ignore credentials
+ADOBE_CREDS/
